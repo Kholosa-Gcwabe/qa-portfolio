@@ -6,7 +6,7 @@
 **Date:** May 2026
 
 ## What I Tested
-A frontend prototype for a restaurant POS system. I checked if users can:
+A frontend prototype for a restaurant POS system I am developing. I checked if users can:
 - Log in and reach the dashboard
 - Select food items from the menu
 - See correct prices and VAT (15%)
