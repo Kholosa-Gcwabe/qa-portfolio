@@ -5,6 +5,11 @@
 **Type:** Manual Functional Testing  
 **Date:** May 2026
 
+## Background
+
+This project was inspired by a real restaurant (Sasa) in Khayelitsha, where manual order handling caused delays, miscommunication, and lack of sales tracking.
+This QA testing focuses on validating a POS system designed to improve order accuracy, reduce manual errors, and streamline operations.
+
 ## What I Tested
 A frontend prototype for a restaurant POS system I am developing. I checked if users can:
 - Log in and reach the dashboard
