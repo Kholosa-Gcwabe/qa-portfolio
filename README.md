@@ -10,6 +10,9 @@
 This project was inspired by a real restaurant (Sasa) in Khayelitsha, where manual ordering methods created delays, miscommunication, and lack of order tracking.
 
 The Sasa POS system was designed to improve efficiency by digitizing order selection and management. This QA testing validates whether the system supports accurate order processing and user interaction.
+## Scope
+
+This testing focuses on frontend functionality only. Backend validation, database persistence, and integrations are outside scope.
 
 ## What I Tested
 A frontend prototype for a restaurant POS system I am developing. I checked if users can:
