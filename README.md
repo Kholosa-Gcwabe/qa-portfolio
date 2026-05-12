@@ -7,8 +7,9 @@
 
 ## Background
 
-This project was inspired by a real restaurant (Sasa) in Khayelitsha, where manual order handling caused delays, miscommunication, and lack of sales tracking.
-This QA testing focuses on validating a POS system designed to improve order accuracy, reduce manual errors, and streamline operations.
+This project was inspired by a real restaurant (Sasa) in Khayelitsha, where manual ordering methods created delays, miscommunication, and lack of order tracking.
+
+The Sasa POS system was designed to improve efficiency by digitizing order selection and management. This QA testing validates whether the system supports accurate order processing and user interaction.
 
 ## What I Tested
 A frontend prototype for a restaurant POS system I am developing. I checked if users can:
