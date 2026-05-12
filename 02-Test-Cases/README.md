@@ -24,7 +24,8 @@
 | **Actual** | Item added. Subtotal R20.00, VAT R3.00, Total R23.00. Message: "Added Pap" |
 | **Status** | Pass |
 
-**Screenshot:** [View TC_POS_002 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_002.png)
+**Screenshot:**
+![TC_POS_002 - Pap added to order](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_002.png?raw=true)
 
 ---
 
@@ -38,7 +39,8 @@
 | **Actual** | Both added. Subtotal R45.00, VAT R6.75, Total R51.75 |
 | **Status** | Pass |
 
-**Screenshot:** [View TC_POS_003 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_003.png)
+**Screenshot:**
+![TC_POS_003 - Multiple items in order](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_003.png?raw=true)
 
 ---
 
@@ -53,7 +55,8 @@
 | **Status** | Pass |
 | **Note** | Suggestion: Show "Pap x3" instead of 3 separate lines |
 
-**Screenshot:** [View TC_POS_004 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_004.png)
+**Screenshot:**
+![TC_POS_004 - Repeated items displayed](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_004.png?raw=true)
 
 ---
 
@@ -67,7 +70,8 @@
 | **Actual** | Popup asked "Clear current order?" Clicked OK. All items removed. Total R0.00 |
 | **Status** | Pass |
 
-**Screenshot:** [View TC_POS_005 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_005.png)
+**Screenshot:**
+![TC_POS_005 - Clear order confirmation popup](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_005.png?raw=true)
 
 ---
 
@@ -82,4 +86,5 @@
 | **Status** | Pass |
 | **Note** | Suggestion: Show timestamp or receipt summary after confirmation |
 
-**Screenshot:** [View TC_POS_006 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_006.png)
+**Screenshot:**
+![TC_POS_006 - Order confirmed message](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_006.png?raw=true)
