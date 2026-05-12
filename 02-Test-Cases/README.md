@@ -10,8 +10,11 @@
 | **Actual** | User reached dashboard |
 | **Status** | Pass |
 
-## TC_POS_002: Select One Item
+*(No screenshot available for this test case)*
 
+---
+
+## TC_POS_002: Select One Item
 | Field | Details |
 |-------|---------|
 | **Title** | Add "Pap (R20)" to order |
@@ -21,7 +24,9 @@
 | **Actual** | Item added. Subtotal R20.00, VAT R3.00, Total R23.00. Message: "Added Pap" |
 | **Status** | Pass |
 
-**Screenshot:** [View image](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_002.png)
+**Screenshot:** [View TC_POS_002 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_002.png)
+
+---
 
 ## TC_POS_003: Select Multiple Items
 | Field | Details |
@@ -32,6 +37,10 @@
 | **Expected** | Both items in receipt, total R51.75 |
 | **Actual** | Both added. Subtotal R45.00, VAT R6.75, Total R51.75 |
 | **Status** | Pass |
+
+**Screenshot:** [View TC_POS_003 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_003.png)
+
+---
 
 ## TC_POS_004: Add Same Item Multiple Times
 | Field | Details |
@@ -44,6 +53,10 @@
 | **Status** | Pass |
 | **Note** | Suggestion: Show "Pap x3" instead of 3 separate lines |
 
+**Screenshot:** [View TC_POS_004 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_004.png)
+
+---
+
 ## TC_POS_005: Clear Order
 | Field | Details |
 |-------|---------|
@@ -53,6 +66,10 @@
 | **Expected** | Confirmation popup appears, then all items removed, total resets to R0.00 |
 | **Actual** | Popup asked "Clear current order?" Clicked OK. All items removed. Total R0.00 |
 | **Status** | Pass |
+
+**Screenshot:** [View TC_POS_005 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_005.png)
+
+---
 
 ## TC_POS_006: Confirm Order
 | Field | Details |
@@ -64,3 +81,5 @@
 | **Actual** | Message: "Order #2 confirmed!" Receipt cleared. Totals reset to R0.00 |
 | **Status** | Pass |
 | **Note** | Suggestion: Show timestamp or receipt summary after confirmation |
+
+**Screenshot:** [View TC_POS_006 screenshot](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_006.png)
