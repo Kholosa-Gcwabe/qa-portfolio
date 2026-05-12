@@ -11,6 +11,7 @@
 | **Status** | Pass |
 
 ## TC_POS_002: Select One Item
+
 | Field | Details |
 |-------|---------|
 | **Title** | Add "Pap (R20)" to order |
@@ -19,6 +20,8 @@
 | **Expected** | Item appears in receipt, total shows R23.00 (with VAT) |
 | **Actual** | Item added. Subtotal R20.00, VAT R3.00, Total R23.00. Message: "Added Pap" |
 | **Status** | Pass |
+
+**Screenshot:** [View image](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_002.png)
 
 ## TC_POS_003: Select Multiple Items
 | Field | Details |
