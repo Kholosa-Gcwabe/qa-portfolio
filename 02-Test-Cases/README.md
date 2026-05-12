@@ -25,7 +25,7 @@
 | **Status** | Pass |
 
 **Screenshot:**
-![TC_POS_002 - Pap added to order](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_002.png?raw=true)
+![TC_POS_002 - Pap added to order]((https://github.com/kholosa-gcwabe/qa-portfolio/blob/main/03-Test-Execution/TC_POS_002.png?raw=true)
 
 ---
 
@@ -40,7 +40,7 @@
 | **Status** | Pass |
 
 **Screenshot:**
-![TC_POS_003 - Multiple items in order](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_003.png?raw=true)
+![TC_POS_003 - Multiple items in order](https://github.com/kholosa-gcwabe/qa-portfolio/blob/main/03-Test-Execution/TC_POS_003.png?raw=true)
 
 ---
 
@@ -56,7 +56,7 @@
 | **Note** | Suggestion: Show "Pap x3" instead of 3 separate lines |
 
 **Screenshot:**
-![TC_POS_004 - Repeated items displayed](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_004.png?raw=true)
+![TC_POS_004 - Repeated items displayed](https://github.com/kholosa-gcwabe/qa-portfolio/blob/main/03-Test-Execution/TC_POS_004.png?raw=true)
 
 ---
 
@@ -71,7 +71,7 @@
 | **Status** | Pass |
 
 **Screenshot:**
-![TC_POS_005 - Clear order confirmation popup](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_005.png?raw=true)
+![TC_POS_005 - Clear order confirmation popup](https://github.com/kholosa-gcwabe/qa-portfolio/blob/main/03-Test-Execution/TC_POS_005.png?raw=true)
 
 ---
 
@@ -87,4 +87,4 @@
 | **Note** | Suggestion: Show timestamp or receipt summary after confirmation |
 
 **Screenshot:**
-![TC_POS_006 - Order confirmed message](https://github.com/YOUR_USERNAME/qa-portfolio/blob/main/03-Test-Execution/TC_POS_006.png?raw=true)
+![TC_POS_006 - Order confirmed message](https://github.com/kholosa-gcwabe/qa-portfolio/blob/main/03-Test-Execution/TC_POS_006.png?raw=true)
