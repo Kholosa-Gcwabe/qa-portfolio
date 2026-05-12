@@ -44,3 +44,7 @@ A frontend prototype for a restaurant POS system I am developing. I checked if u
 - Finding and reporting bugs
 - Documenting test results
 - Managing testing scope
+
+## Summary
+
+End-to-end manual testing was performed covering login, item selection, pricing validation, and order management workflows.
